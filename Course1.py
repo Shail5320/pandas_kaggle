@@ -17,11 +17,11 @@ coffee = pd.DataFrame({'Bob': ['I liked it.', 'It was awful.'],
 # Series
 # A Series, by contrast, is a sequence of data values. If a DataFrame is a table, a Series is a list. And in fact you can create one with nothing more than a list:
 
-pd.Series([1, 2, 3, 4, 5])
-pd.Series([30, 35, 40], index=['2015 Sales', '2016 Sales', '2017 Sales'], name='Product A')
+(pd.Series([1, 2, 3, 4, 5]))
+(pd.Series([30, 35, 40], index=['2015 Sales', '2016 Sales', '2017 Sales'], name='Product A'))
 
 # Check datatypes of columns/features
-print(min_dat.dtypes)
+# print(min_dat.dtypes)
 
 # Reading data files
 # Being able to create a DataFrame or Series by hand is handy. But, most of the time, we won't actually be creating our own data by hand. Instead, we'll be working with data that already exists.
