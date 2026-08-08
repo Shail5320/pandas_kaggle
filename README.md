@@ -1,7 +1,8 @@
 ## Certificate of Completion
 I successfully completed this micro-course, verifying my foundational skills in data manipulation with pandas. 
 
-![Kaggle Pandas Certificate](Shailesh Kumar - Pandas.png)
+<img width="4800" height="2960" alt="Shailesh Kumar - Pandas" src="https://github.com/user-attachments/assets/7105635c-b3dd-4bff-b66a-19cb616ac1be" />
+
 
 # Kaggle Pandas Micro-Course
 
