@@ -23,7 +23,7 @@ reviews = pd.read_csv("winemag-data-130k-v2.csv")
 (reviews[pd.isnull(reviews.country)])
 
 # we can fill the nan with any particular value by
-reviews["region_2"] = reviews.region_2.fillna("Unknown", inplace=True)
+reviews["region_2"] = reviews.region_2.fillna("Unknown")
 # print(reviews.region_2)
 
 # we may also replace the data in a field using the replace command
